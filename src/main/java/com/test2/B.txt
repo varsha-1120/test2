@@ -6,8 +6,13 @@ class A{
 
 
 }
+<<<<<<< Updated upstream
 class D{
+=======
 
+class C{
+>>>>>>> Stashed changes
+int x = 100;
 
 
 }
